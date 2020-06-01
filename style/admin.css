@@ -1,0 +1,57 @@
+#admin-header{
+    border-bottom: solid #dedede 1px;
+    padding: 10px;
+}
+
+body{
+    background: #faf8ed;
+}
+
+#admin-header-placeholder ul{
+    display: inline-block; 
+}
+
+#admin-header-placeholder ul li{
+    display: inline-block;
+    padding: 5px;
+    color:  #990000;
+    font-family: "Chiller";
+    font-size: 38px;
+     
+}
+
+#admin-header-placeholder{
+    float: right;
+}
+
+#admin-editor{
+    margin-top: 100px;
+    width: 500px;
+    margin: auto;
+}
+
+input{
+    display: block;
+    width: 100%;
+    margin: 5px 0;
+}
+
+textarea{
+    display: block;
+    width: 100%;
+    padding: 2px;
+    height: 160px;
+}
+
+.logo{
+    display: inline-block;
+    color:  #990000;
+    font-family: "Chiller";
+    font-weight: 900;
+    text-decoration: blink;
+    letter-spacing: 12px;
+    font-size: 46px;
+}
+
+
+

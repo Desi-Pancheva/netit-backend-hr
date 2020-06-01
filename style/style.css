@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.web-header {
+    height: 120px;
+    padding: 2px;
+    
+}
+
+.button{
+    background: #dedede;
+    border: none;
+    text-transform: uppercase;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.form-input{
+    width: 100%;
+    margin: 5px 0;
+    padding: 5px;
+}
+
+.wrapper{
+    margin: auto;
+    margin-top: 100px;
+    width: 500px;
+}
+
+.message{
+    padding: 5px;
+    font-weight: bold;
+}
+
+.error{
+  background: #ff0000;  
+    
+}
